@@ -50,8 +50,6 @@ A Retrieval-Augmented Generation chatbot that answers nutrition-related question
 
 **Technologies:** Python, PyMuPDF, Sentence Transformers, all-MiniLM-L6-v2, Supabase, pgvector, Groq, Llama 3.3 70B, Next.js.
 
-**Technologies:** Python, Hindsight, RAG, LLMs, LangGraph, Tavily.
-
 ---
 
 ## 💼 Internship Experience
@@ -88,7 +86,7 @@ B.Tech, Computer Science and Engineering (Artificial Intelligence & Machine Lear
 ## 🤝 Connect With Me
 
 - **Email:** [kowshikch67@gmail.com](mailto:kowshikch67@gmail.com)
-- **LinkedIn:** [Chalamala Kowshik](https://www.linkedin.com/in/chalamala-kowshik)
+- **LinkedIn:** [Chalamala Kowshik](https://www.linkedin.com/in/chalamala-kowshik-47454a325/)
 - **GitHub:** [@kowshikch092](https://github.com/kowshikch092)
 
 ---
