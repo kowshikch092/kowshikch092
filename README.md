@@ -50,14 +50,6 @@ A Retrieval-Augmented Generation chatbot that answers nutrition-related question
 
 **Technologies:** Python, PyMuPDF, Sentence Transformers, all-MiniLM-L6-v2, Supabase, pgvector, Groq, Llama 3.3 70B, Next.js.
 
-### 3. [SmartCare AI – Memory-Enhanced Support Assistant](https://github.com/kowshikch092/Why-I-recall-hindsight-memory-before-running-RAG)
-
-A support-assistant project exploring the use of Hindsight memory before knowledge-base retrieval. The linked repository contains the accompanying project write-up.
-
-- Uses Hindsight to recall relevant customer context before running RAG.
-- Retrieves troubleshooting information from a knowledge base and uses web search as a fallback when needed.
-- Focuses on recalling useful facts from previous interactions rather than treating the entire conversation history as memory.
-
 **Technologies:** Python, Hindsight, RAG, LLMs, LangGraph, Tavily.
 
 ---
